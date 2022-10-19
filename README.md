@@ -1,6 +1,7 @@
 # FirstProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+Exemplo de uma aplicação utilizando o framework Angular
+Aplicação utilizada para aprendizado no framwork
 
 ## Development server
 
